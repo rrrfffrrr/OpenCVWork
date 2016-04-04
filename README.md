@@ -3,12 +3,8 @@ My opencv study
 
 # Feature
 
-Add/Subtract two image with ratio
-
-Invert image 
-
-Contrast stretching 
-
-Histogram equalization 
-
-Threshold 
+1. Add/Subtract two image with ratio
+2. Invert image 
+3. Contrast stretching 
+4. Histogram equalization 
+5. Threshold 
