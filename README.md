@@ -1,6 +1,8 @@
 # OpenCVWork
 My opencv study
 
+Visual studio 2013
+
 # Feature
 
 1. Add/Subtract two image with ratio
