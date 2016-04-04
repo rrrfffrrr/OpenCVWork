@@ -1,0 +1,15 @@
+﻿Build started 2016-04-04 오후 3:45:57.
+     1>Project "C:\Users\KCY\documents\visual studio 2013\Projects\OpenCVWork\OpenCVWork\OpenCVWork.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ID:\opencv\build\include /ID:\opencv\build\include\opencv /ID:\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\opencv\build\include\opencv2\flann\dist.h : warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+     1>c:\users\kcy\documents\visual studio 2013\projects\opencvwork\opencvwork\source.cpp(27): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\KCY\documents\visual studio 2013\Projects\OpenCVWork\Debug\OpenCVWork.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\opencv\build\x86\vc12\lib opencv_calib3d2412d.lib opencv_contrib2412d.lib opencv_core2412d.lib opencv_features2d2412d.lib opencv_flann2412d.lib opencv_gpu2412d.lib opencv_highgui2412d.lib opencv_imgproc2412d.lib opencv_legacy2412d.lib opencv_ml2412d.lib opencv_nonfree2412d.lib opencv_objdetect2412d.lib opencv_photo2412d.lib opencv_stitching2412d.lib opencv_superres2412d.lib opencv_ts2412d.lib opencv_video2412d.lib opencv_videostab2412d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\KCY\documents\visual studio 2013\Projects\OpenCVWork\Debug\OpenCVWork.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\KCY\documents\visual studio 2013\Projects\OpenCVWork\Debug\OpenCVWork.lib" /MACHINE:X86 Debug\Source.obj
+         OpenCVWork.vcxproj -> C:\Users\KCY\documents\visual studio 2013\Projects\OpenCVWork\Debug\OpenCVWork.exe
+     1>Done Building Project "C:\Users\KCY\documents\visual studio 2013\Projects\OpenCVWork\OpenCVWork\OpenCVWork.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.09
