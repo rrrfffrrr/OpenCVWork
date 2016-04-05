@@ -1,7 +1,7 @@
 # OpenCVWork
 My opencv study
 
-Visual studio 2013
+Opencv 2.4.12 with Visual studio 2013
 
 # Feature
 
