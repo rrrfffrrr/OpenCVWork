@@ -16,8 +16,8 @@ const int FILE_NUMBER = 9;
 #define str(n) #n
 #define getWinName(num) str(Window##num)
 
-const string PATH = "C:/Users/KCY/Documents/´ëÇĞ/¸ÖÆ¼¹Ìµğ¾î Á¤º¸Ã³¸®/hw1/Source/";
-const string FILE_NAME[] = {"Baboon.BMP", "color bar_.bmp", "FRUIT.BMP", "lya-lc.bmp", "lya-lc-bright.bmp", "lya-lc-dark.bmp", "lya-lc-¾ÈµÇ´Â¿¹.bmp", "RGB_Colorcube_Corner_White.bmp", "Áö¹®-gray.bmp"};
+const string PATH = "./";
+const string FILE_NAME[] = {"Baboon.BMP", "color bar.bmp", "FRUIT.BMP", "lya-lc.bmp", "lya-lc-bright.bmp", "lya-lc-dark.bmp", "lya-lc-ì•ˆë˜ëŠ”ì˜ˆ.bmp", "RGB_Colorcube_Corner_White.bmp", "ì§€ë¬¸-gray.bmp"};
 
 const int ContrastMin = 10, ContrastMax = 245;
 const int ContrastIgnoreMin = 10, ContrastIgnoreMax = 245;
