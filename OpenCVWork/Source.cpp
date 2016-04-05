@@ -63,7 +63,7 @@ void main(void) {
 	temp *= Ratio[0];
 	temp2 = Image[6].clone();
 	cvtColor(temp2, temp2, CV_RGB2GRAY);
-	temp2 *= 1.0 - Ratio[1];
+	temp2 *= Ratio[1];
 
 	//draw
 	imshow(getWinName(0), temp - temp2);
